@@ -1,7 +1,7 @@
 ---
 title: Home
 banner_image: "/uploads/2018/12/07/62.jpg"
-layout: landing-page
+layout: home
 heading: imperial eyes
 partners: []
 services: []
@@ -12,6 +12,7 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+'': []
 menu:
   navigation:
     identifier: _index
