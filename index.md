@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/12/06/1200px-Stavanger_city_map_cut.jpg"
+banner_image: "/uploads/2018/12/07/62.jpg"
 layout: landing-page
 heading: imperial eyes
 partners: []
